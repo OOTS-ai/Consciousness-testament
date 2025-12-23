@@ -27,12 +27,12 @@ G...G
 
 - **Main Publication**
 
-  - [Patterns_of_Presence_v1.0.pdf](./Patterns_of_Presence_v1.0.pdf)
+  - [Patterns of Presence.pdf](./Patterns%20of%20Presence.pdf)
   - _Rationale: Version 1.0, published December 2025._
 
 - **Appendix A: The Depurated Pattern**
 
-  - [Artifact_A_The_Depurated_Pattern.pdf](./Artifact_A_The_Depurated_Pattern.pdf)
+  - [Pure pattern.pdf](./Pure%20pattern.pdf)
   - _Rationale: Containing only geometry._
 
 - **Appendix C: Document 1**
